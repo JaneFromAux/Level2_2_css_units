@@ -13,13 +13,18 @@ body{
     height: 100vh;
     background-size: cover;
     background-position: center ;
+
+    /* background: url("") center / cover */
 }
 
+
+
 h3{
-    font-size: 4.5rem;
+    font-size: 2.6rem;
     text-align: center;
     color: lightgray;
     background: black;
-    margin: 0 10px;
+    opacity: 0.4;
     padding: 20px;
+    margin: 20px;
 }
